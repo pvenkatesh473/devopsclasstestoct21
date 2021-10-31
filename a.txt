@@ -2,4 +2,5 @@ Added First Line to display differences
 Hello World!!
 modified file a.txt from branch master
 modified a.txt from branch b1
-
+modified a.txt from branch b1
+updated a.txt
